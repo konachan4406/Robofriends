@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Minecrafter Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Minecrafter Regular'), url('Minecrafter.Reg.woff') format('woff');
+    }
+h1{
+    font-family:'Minecrafter Regular' ;
+    font-style: 200;
+    color: #87FF2A
+}
