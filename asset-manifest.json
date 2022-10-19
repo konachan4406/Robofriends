@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Robofriends/static/css/main.42c22f88.css",
+    "main.js": "/Robofriends/static/js/main.20865cc7.js",
+    "static/js/787.32032a02.chunk.js": "/Robofriends/static/js/787.32032a02.chunk.js",
+    "static/media/Minecrafter.Reg.woff": "/Robofriends/static/media/Minecrafter.Reg.8eee2cb280fdcf846639.woff",
+    "index.html": "/Robofriends/index.html",
+    "main.42c22f88.css.map": "/Robofriends/static/css/main.42c22f88.css.map",
+    "main.20865cc7.js.map": "/Robofriends/static/js/main.20865cc7.js.map",
+    "787.32032a02.chunk.js.map": "/Robofriends/static/js/787.32032a02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42c22f88.css",
+    "static/js/main.20865cc7.js"
+  ]
+}
